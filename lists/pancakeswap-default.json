@@ -112,6 +112,13 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
-    }
-  ]
+    },
+{
+  "name": "MAA Token",
+  "symbol": "MAA",
+  "address": "0x2F4575464E2b5f98d4b2a6d35c0Fd59F95F2334C",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://i.ibb.co/sPYFZh4/maa-logo-tilak.png"
 }
+
